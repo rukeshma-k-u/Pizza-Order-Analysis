@@ -64,4 +64,4 @@ This Power BI dashboard explores detailed insights from a fictional pizza compan
 * Helps marketing teams plan promotions around top-performing days and pizza types
 
 
-📬 For more dashboards, check out my full [GitHub Portfolio](https://github.com/your-username)
+📬 For more dashboards, check out my full [GitHub Portfolio](https://github.com/rukeshma-k-u)
